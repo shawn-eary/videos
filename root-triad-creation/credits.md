@@ -1,8 +1,8 @@
 ## Tools
-Gimp 
-KDENLive
-Cubase 10.5
-Windows 10
+Gimp \
+KDENLive \
+Cubase 10.5 \
+Windows 10 
 
 ## REFERENCES
 [1] - Dr. Wing Lau \
