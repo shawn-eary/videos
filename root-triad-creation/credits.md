@@ -2,7 +2,8 @@
 Gimp \
 KDENLive \
 Cubase 10.5 \
-Windows 10 
+Windows 10 \
+MuseScore
 
 ## REFERENCES
 [1] - Dr. Wing Lau \
@@ -22,3 +23,14 @@ Interval Quality in Key Sighnatures \
 Music StackExchange. [Online: January 5, 2022].\
 [Last Accessed: January 28, 2023] \
 https://music.stackexchange.com/questions/120509/interval-quality-in-key-signatures
+
+[4] - Triads in the Major Scale \
+Total Guitarist \
+[Last Accessed: January 30, 2023] \
+http://totalguitarist.com/lessons/theory/harmony/major/
+
+[5] - Cubase: Split stereo track into two mono tracks \
+Lanewood Studios \
+YouTube. [Online: January 15, 2023] \
+[Last Accessed: January 28, 2023] \
+https://youtu.be/gbDQBRCzcIg
