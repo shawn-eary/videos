@@ -451,7 +451,6 @@ https://www.utilars.com/
   </entry>
   <entry producer="chain4" in="00:00:01.440" out="00:10:01.280">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter0">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -579,6 +578,7 @@ https://www.utilars.com/
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:02.840=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
@@ -951,8 +951,8 @@ https://www.utilars.com/
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <producer id="producer4" in="00:00:00.000" out="00:00:37.960">
-  <property name="length">950</property>
+ <producer id="producer4" in="00:00:00.000" out="00:00:52.160">
+  <property name="length">1305</property>
   <property name="eof">pause</property>
   <property name="meta.media.progressive">1</property>
   <property name="aspect_ratio">1</property>
@@ -961,14 +961,6 @@ https://www.utilars.com/
   <property name="kdenlive:duration">00:00:05:00</property>
   <property name="kdenlive:clipname">Simple Anima...</property>
   <property name="xmldata">&lt;kdenlivetitle duration="125" LC_NUMERIC="C" width="1920" height="1080" out="124">
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="230" y="444">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="141" font="Bitstream Vera Sans" letter-spacing="0" font-pixel-size="40" font-italic="0" typewriter="0;2;1;0;0" alignment="0" font-weight="50" box-width="1229.77" font-color="255,255,255,255">Please do not defame Utilars™, Shawn Eary or his family; the
-Lord Jesus Christ or any persons with your modifications. 
-As Google used to say: "Don't be Evil"&lt;/content>
- &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="1">
   &lt;position x="164" y="141">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
@@ -976,7 +968,7 @@ As Google used to say: "Don't be Evil"&lt;/content>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="282" font="Bitstream Vera Sans" letter-spacing="0" font-pixel-size="40" font-italic="0" typewriter="0;2;1;0;0" alignment="1" font-weight="50" box-width="1227.75" font-color="255,255,255,255">via Open Source stack
 ©2023 -  Utilars™ and Shawn Eary (https://www.utilars.com)
 You can Modify this Tutorial!
-Source Files and Attribution are Found at:
+Source Files and Attribution is Found at:
 https://github.com/shawn-eary/videos/tree/main/cartoon_flag
 &lt;/content>
  &lt;/item>
@@ -1031,12 +1023,13 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
   </entry>
   <entry producer="chain7" in="00:00:02.960" out="00:11:57.760">
    <property name="kdenlive:id">10</property>
-   <filter id="filter12" in="00:11:54.080" out="00:11:57.800">
+   <filter id="filter12" in="00:11:50.200" out="00:11:57.800">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:03.720=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="chain8" in="00:01:05.240" out="00:15:18.600">
@@ -1055,6 +1048,7 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:04.120=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="chain9" in="00:00:01.200" out="00:23:31.880">
@@ -1073,6 +1067,7 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:00.400=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="chain10" in="00:00:01.440" out="00:09:52.000">
@@ -1091,6 +1086,7 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:03.560=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:09.280"/>
@@ -1110,6 +1106,7 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:01.040=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="chain12" in="00:00:01.040" out="00:08:10.760">
@@ -1128,6 +1125,7 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="alpha">00:00:00.000=1;00:00:15.480=0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer4" in="00:00:00.000" out="00:00:14.520">
@@ -1302,22 +1300,22 @@ https://github.com/shawn-eary/videos/tree/main/cartoon_flag
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">e18652539e3f1043df11f020221d690a</property>
   <property name="kdenlive:folderid">2</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">2</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">6</property>
   <property name="kdenlive:sequenceproperties.audioChannels">2</property>
   <property name="kdenlive:sequenceproperties.audioTarget">1</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{6b517dc9-1417-459c-b722-ca74c7e0b888}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.position">114781</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">5651</property>
+  <property name="kdenlive:sequenceproperties.position">114851</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">16414</property>
   <property name="kdenlive:sequenceproperties.tracks">4</property>
   <property name="kdenlive:sequenceproperties.tracksCount">7</property>
   <property name="kdenlive:sequenceproperties.verticalzoom">1</property>
   <property name="kdenlive:sequenceproperties.videoTarget">2</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">75</property>
-  <property name="kdenlive:sequenceproperties.zoom">13</property>
+  <property name="kdenlive:sequenceproperties.zoom">11</property>
   <property name="kdenlive:sequenceproperties.groups">[
     {
         "children": [
